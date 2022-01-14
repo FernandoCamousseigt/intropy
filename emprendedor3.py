@@ -19,3 +19,5 @@ utilidades = P*U - GT
 ratio = utilidades/Uanterior
 
 print("El valor de las utilidades esperadas es = {}".format(utilidades))
+
+print(f"La razón de Uactual/Uanterior es: {ratio:.2f}")
